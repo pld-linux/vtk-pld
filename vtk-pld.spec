@@ -5,7 +5,7 @@ Name:		vtk-pld
 Version:	0.1
 Release:	1
 License:	GPL
-Source0:	%{name}
+Source0:	vtk
 # Source0-md5:	0df1186470350c5d67e30955bb7a77db
 Group:		Applications/Text
 # tinyurl.com anyone?
