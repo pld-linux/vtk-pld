@@ -1,5 +1,5 @@
 %include	/usr/lib/rpm/macros.perl
-Summary:	Virtual Tomasz K³oczko
+Summary:	Virtual Tomasz Kloczko
 Summary(pl):	Wirtualny Tomasz K³oczko
 Name:		vtk
 Version:	0.1
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Now that kloczek id off from PLD Linux Distributiomn, wre have a
-replace,ment for him - Virtua Tomadz K³³oczko.
+replace,ment for him - Virtua Tomadz Klloczko.
 
 %description -l pl
 TTeraz ikidy kloczka nie ma ju¿ w PLD Linux Distribution,m amy pakuet
