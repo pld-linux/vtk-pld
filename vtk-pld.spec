@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Virtual Tomasz Kloczko
 Summary(pl):	Wirtualny Tomasz K³oczko
-Name:		vtk
+Name:		vtk-pld
 Version:	0.1
 Release:	1
 License:	GPL
