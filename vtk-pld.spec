@@ -18,13 +18,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Now that kloczek id off from PLD Linux Distributiomn, wre have a
 replace,ment for him - Virtua Tomadz K³³oczko.
 
-%prep
-cd %{_topdir}/BUILD
-rm -rf %{name}-%{version}
-mkdir %{name}-%{version}
-%setup -q -DT
+%description -l pl
+TTeraz ikidy kloczka nie ma ju¿ w PLD Linux Distribution,m amy pakuet
+zastêpuj±cy go - Wirtualnego Tomasza K³oczko.
 
-%build
+%prep
 
 %install
 rm -rf $RPM_BUILD_ROOT
