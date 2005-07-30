@@ -8,7 +8,6 @@ License:	GPL
 Source0:	vtk
 # Source0-md5:	0df1186470350c5d67e30955bb7a77db
 Group:		Applications/Text
-# tinyurl.com anyone?
 URL:		http://tinyurl.com/34x9v
 BuildRequires:	rpm-perlprov
 BuildArch:	noarch
