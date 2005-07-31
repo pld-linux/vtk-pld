@@ -8,7 +8,7 @@ License:	GPL
 Source0:	vtk
 # Source0-md5:	0df1186470350c5d67e30955bb7a77db
 Group:		Applications/Text
-URL:		http://tinyurl.com/34x9v
+URL:		http://groups.google.pl/group/pl.comp.os.advocacy/msg/cd86dd3126c1d33e
 BuildRequires:	rpm-perlprov
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
